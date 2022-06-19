@@ -28,6 +28,8 @@ function addItem (item){
     }   
 }
 
+// function to remove items
+
 // calls addItem function
 addItem('Apple');
 addItem('Peanuts');
